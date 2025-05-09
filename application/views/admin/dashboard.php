@@ -8,9 +8,9 @@
         </div>
 
         <!-- Main Content -->
-        <div class="col-md-10 mt-4">
+        <div class="col-md-10 mt-5">
             <!-- Welcome Section -->
-            <div class="card shadow mb-4">
+            <div class="card shadow mb-4 mt-5">
                 <div class="card-header bg-dark text-white">
                     <h5 class="mb-0 text-light">Welcome to Admin Dashboard</h5>
                 </div>

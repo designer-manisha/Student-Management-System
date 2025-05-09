@@ -68,19 +68,16 @@
         }
 
 
-        .sidebar {
+        /* .sidebar {
             position: fixed;
             top: 70px;
-            /* same as header height */
             left: 0;
             width: 250px;
             height: calc(100vh - 70px);
         }
 
         #content {
-            /* margin-left: 250px; */
             margin-top: 100px;
-            /* padding: 20px; */
         }
 
         .header-top h5 {
@@ -91,7 +88,7 @@
         .toggle_sidebar img {
             width: 24px;
             height: 24px;
-        }
+        } */
     </style>
 
 </head>
